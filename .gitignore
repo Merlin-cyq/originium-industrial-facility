@@ -1,0 +1,7 @@
+# Publish only the model, finished renders, and documentation.
+/*
+!/.gitignore
+!/README.md
+!/originium_facility.blend
+!/overview.png
+!/fuel_buffers_detail.png
